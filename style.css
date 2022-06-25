@@ -4,17 +4,33 @@
   --main-desktop-font-size: 30px;
   --main-pad-font-size: calc(var(--main-desktop-font-size) * 4.8 / 6);
   --main-border-color: #111;
+  --main-background-color: #fff;
+  --main-text-color: #fff;
+  --main-color: #03a8f4;
   --header-toggle-width: 30px;
   --header-pad-toggle-width: calc(var(--header-toggle-width) * 5 / 6);
-  --main-background-color: #333;
-  --main-text-color: #fff;
+  --footer-icon-width: 30px;
+  --footer-margin-right: 30px;
+  --footer-pad-icon-width: calc(var(--footer-icon-width) * 5 / 6);
   --screen-desktop-padding-top-bottom: 50px;
   --screen-desktop-padding-left-right: 100px;
   --screen-pad-padding-top-bottom: 10px;
   --screen-pad-padding-left-right: 30px;
-  --footer-margin-right: 30px;
-  --footer-icon-width: 30px;
-  --footer-pad-icon-width: calc(var(--footer-icon-width) * 5 / 6);
+  --video-overlay-island-color: #054f7199;
+  --video-overlay-spring-color: #054f716d;
+  --video-overlay-summer-color: #054f714e;
+  --video-overlay-autumn-color: #054f713a;
+  --video-overlay-winter-color: #1098d785;
+  --main-structure-max-width: 1920px;
+  --text-description-h1-desktop-size: 3em;
+  --text-description-h2-desktop-size: 2.5em;
+  --text-description-p-desktop-size: 1rem;
+  --text-description-h1-pad-size: 2.5em;
+  --text-description-h2-pad-size: 2em;
+  --text-description-p-pad-size: 1rem;
+  --menu-width: 10em;
+  --main-structure-left: 2em;
+  --menu-margin-bottom: 1em;
 }
 
 * {
