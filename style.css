@@ -6,6 +6,8 @@
   --header-toggle-width: 30px;
   --main-background-color: #333;
   --main-text-color: #fff;
+  --screen-desktop-padding-top-bottom: 50px;
+  --screen-desktop-padding-left-right: 50px;
 }
 
 * {
@@ -61,4 +63,10 @@ body {
   display: inline-block;
   text-decoration: none;
   color: var(--main-text-color);
+}
+
+.main-structure header,
+.main-structure .content,
+.main-structure footer {
+  padding: var(--screen-desktop-padding-top-bottom) var(--screen-desktop-padding-left-right);
 }
