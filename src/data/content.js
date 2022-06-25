@@ -1,7 +1,7 @@
 const CONTENT_INFO = {
   island: {
-    h1: 'Never Stop',
-    h2: 'Explore The World',
+    h1: 'Go where',
+    h2: 'you feel most alive',
     p: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio voluptate soluta tenetur eum non nemo excepturi accusamus consequuntur reprehenderit dolore at, tempora debitis perferendis blanditiis quam inventore minus praesentium itaque.',
   },
   spring: {

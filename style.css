@@ -23,7 +23,7 @@
   --video-overlay-winter-color: #1098d785;
   --main-structure-max-width: 1920px;
   --text-description-h1-desktop-size: 3em;
-  --text-description-h2-desktop-size: 2.5em;
+  --text-description-h2-desktop-size: 2.3em;
   --text-description-p-desktop-size: 1rem;
   --text-description-h1-pad-size: 2.5em;
   --text-description-h2-pad-size: 2em;
@@ -328,7 +328,6 @@ body {
     transform: scale(1);
   }
   50% {
-    /* filter:invert(0); */
     transform: scale(1.5);
   }
 }
